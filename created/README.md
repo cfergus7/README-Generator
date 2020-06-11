@@ -1,4 +1,4 @@
-# README Generator
+# Testing for submit
   ![badge](https://img.shields.io/badge/License-None-blue.svg)
   ## Table of Contests
   -[Description](#description)
@@ -9,11 +9,11 @@
   -[Test](#tests)
   -[Question](#questions)
   ##Description
-  ### creating professional readme's
-  ##Instal
-  none
+  ### Creating professional README
+  ##Install
+  dont forget about npm install if you see a package.json
   ##Usage
-  ### making future dev life easier
+  ### making young dev lives easier
   ##Licence
   None
   ##Contribution
@@ -21,5 +21,5 @@
   ##Test
   ### none
   ##Questions
-  ###### [cfegus7 GitHub](https://github.com/)  
+  ###### [cfergus7 GitHub](https://github.com/)  
   ### Email cfergus7@gmail.com
